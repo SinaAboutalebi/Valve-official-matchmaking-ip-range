@@ -10,7 +10,7 @@
   <p align="center">
     Cs:Go Valve Official Matchmaking Ip Ranges 
     <br />
-    <a href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range/blob/main/ipList.md"><strong>Explore the Ip Ranges »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range">View Demo</a>
