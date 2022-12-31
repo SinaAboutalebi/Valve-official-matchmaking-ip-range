@@ -67,7 +67,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 
-Project Link: [https://github.com/Zer0Power/Valve-official-matchmaking-ip-range](https://github.com/Zer0Power/Valve-official-matchmaking-ip-range)
+Project Link: [Zer0Power/Valve-official-matchmaking-ip-range](https://github.com/Zer0Power/Valve-official-matchmaking-ip-range)
 </br>
 Source : [denniskupec/valve-matchmaking-ip-ranges](https://github.com/denniskupec/valve-matchmaking-ip-ranges)
 </br>
