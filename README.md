@@ -42,7 +42,7 @@ Some clusters are ping only, so the client will timeout if it tries to connect.
 IP addresses used might change, this is not an official list.
 
 <a align="left" href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range/blob/main/ipList.md">Ip Range List</a></br>
-<a align="left" href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range/blob/main/mikrotik.md">Address list mikrotik command</a>
+<a align="left" href="https://github.com/Zer0Power/Valve-official-matchmaking-ip-range/blob/main/mikrotik.txt">Address list mikrotik command</a>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
